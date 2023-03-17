@@ -200,7 +200,7 @@ public class MainController {
     void addPart() throws SQLException {
         partsDatabase db = new partsDatabase("commonParts");
 
-        if (db.tableExists(productText.getText())){
+        if (!(db.tableExists(productText.getText()))){
             db.createTable(productText.getText());
         }
 
