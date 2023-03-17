@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ac1cb45-97c2-41bc-9499-724200e899fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/db.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/log/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/log/log.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/log/log1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/log/logmirror.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c10.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c101.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c111.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c121.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c130.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c141.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c150.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c161.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c171.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c180.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c191.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c1a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c1b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c1c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c1d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c1e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c1f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c20.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c200.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c211.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c221.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c230.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c241.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c251.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c260.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c271.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c281.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c290.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c2a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c2b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c2c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c2d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c2e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c2f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c300.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c31.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c311.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c321.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c331.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c340.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c351.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c361.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c371.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c380.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c391.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c3a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c3b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c3c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c3d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c3e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c3f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c400.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c41.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c411.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c421.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c430.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c441.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c451.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c461.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c470.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c481.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c51.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c60.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c71.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c81.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c90.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/ca1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/cb1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/cc0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/cd1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/ce1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/cf0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonParts/service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/workapp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/workapp/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/workapp/Part.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/workapp/partsDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/workapp/testDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/workapp/tsDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java(old)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/app/workapp/Home.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/detexLogo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/detexLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/db.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/log/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/log/log.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/log/log1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/log/logmirror.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c10.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c101.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c111.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c121.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c130.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c141.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c150.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c161.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c171.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c180.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c191.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c1a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c1b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c1c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c1d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c1e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c1f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c20.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c200.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c211.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c221.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c230.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c241.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c251.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c260.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c271.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c281.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c290.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c2a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c2b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c2c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c2d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c2e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c2f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c300.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c31.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c311.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c321.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c331.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c340.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c351.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c361.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c371.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c380.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c391.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c3a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c3b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c3c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c3d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c3e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c3f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c400.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c41.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c411.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c421.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c430.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c441.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c451.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c461.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c470.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c481.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c490.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c4a0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c51.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c60.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c71.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c81.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/c90.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/ca1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/cb1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/cc0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/cd1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/ce1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/seg0/cf0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsdb/service.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N7RL4lfj5FzynoV1eCL0jrsRkS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.app.workapp.Main">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.workapp.HelloApplication" />
+      <module name="WorkApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.workapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.app.detexapp.Main" />
+      <module name="WorkApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.detexapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app.workapp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.workapp.Main" />
+      <module name="WorkApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.workapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.workapp.testDriver" />
+      <module name="WorkApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.workapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.app.workapp.Main" />
+        <item itemvalue="Application.testDriver" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ac1cb45-97c2-41bc-9499-724200e899fe" name="Changes" comment="" />
+      <created>1679013076676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679013076676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>
