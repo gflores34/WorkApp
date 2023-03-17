@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ac1cb45-97c2-41bc-9499-724200e899fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c490.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonParts/seg0/c4a0.dat" afterDir="false" />
+    <list default="true" id="4ac1cb45-97c2-41bc-9499-724200e899fe" name="Changes" comment="Fixed addPart()&#10;If loop was not correctly checking for the existence of the product/table in the database">
+      <change afterPath="$PROJECT_DIR$/commonParts/seg0/d4b0.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonParts/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/db.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonParts/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/log/log.ctrl" afterDir="false" />
@@ -18,6 +18,8 @@
       <change beforePath="$PROJECT_DIR$/commonParts/seg0/c41.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/c41.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonParts/seg0/c411.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/c411.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonParts/seg0/c421.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/c421.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonParts/seg0/c490.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/c490.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonParts/seg0/c4a0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/c4a0.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonParts/seg0/c51.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/c51.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonParts/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/c60.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonParts/seg0/c71.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/c71.dat" afterDir="false" />
@@ -26,12 +28,14 @@
       <change beforePath="$PROJECT_DIR$/commonParts/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/ca1.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonParts/seg0/cb1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/commonParts/seg0/cb1.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/workapp/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/workapp/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/workapp/testDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/workapp/testDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/app/workapp/Home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app/workapp/Home.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsdb/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/tsdb/db.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsdb/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/tsdb/log/log.ctrl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsdb/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/tsdb/log/log1.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tsdb/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/tsdb/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsdb/seg0/c230.dat" beforeDir="false" afterPath="$PROJECT_DIR$/tsdb/seg0/c230.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsdb/seg0/c490.dat" beforeDir="false" afterPath="$PROJECT_DIR$/tsdb/seg0/c490.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsdb/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/tsdb/seg0/c90.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679013076676</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fixed addPart()&#10;If loop was not correctly checking for the existence of the product/table in the database">
+      <created>1679016584730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679016584730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +158,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fixed addPart()&#10;If loop was not correctly checking for the existence of the product/table in the database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed addPart()&#10;If loop was not correctly checking for the existence of the product/table in the database" />
   </component>
   <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
     <option name="sizePresets">
